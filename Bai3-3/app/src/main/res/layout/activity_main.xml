@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="#76CDF6"
+    tools:context=".MainActivity" >
+    <!--  In Relative Layout  -->
+    <!--    android:gravity="bottom|end"-->
+    <!--    android:ignoreGravity="@+id/txt1"-->
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="273dp"
+        android:layout_height="76dp"
+        android:layout_centerInParent="true"
+        android:background="#E28B8B"
+        android:gravity="center"
+        android:text="TextView1" />
+<!--     android:layout_alignParentBottom="true"-->
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="74dp"
+        android:layout_height="279dp"
+        android:layout_alignParentRight="true"
+        android:layout_above="@id/txt1"
+        android:layout_marginRight="0dp"
+        android:background="#8BAEE2"
+        android:gravity="center"
+        android:text="TextView2" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="158dp"
+        android:layout_height="148dp"
+        android:gravity="center"
+        android:background="#E2D18B"
+        android:layout_below="@id/txt1"
+        android:layout_toRightOf="@id/txt1"
+        android:text="TextView" />
+</RelativeLayout>
