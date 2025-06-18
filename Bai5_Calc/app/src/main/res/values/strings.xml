@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bai5_Calc</string>
+    <string name="result">Result</string>
+    <string name="nh_p_s_b">Nhập Số b:</string>
+    <string name="enter_number_a">Enter number A</string>
+    <string name="number_a">Number a:</string>
+    <string name="number_b">Number b:</string>
+</resources>
