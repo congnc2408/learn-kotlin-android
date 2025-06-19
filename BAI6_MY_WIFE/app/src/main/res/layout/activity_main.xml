@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:hint="vợ iu ❤️❤️"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:textColorHint="#FA6565"/>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/radTingyun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="tingyun"
+
+            android:padding="5dp"/>
+        <RadioButton
+            android:id="@+id/radFugue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fungue"
+            android:padding="5dp"/>
+    </RadioGroup>
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Exit"
+        android:padding="10dp"/>
+
+    <ImageView
+        android:id="@+id/imgWife"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter" />
+</LinearLayout>
