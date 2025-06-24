@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bai10_AutoCompleteTextView</string>
+    <string-array name="province">
+        <item>Hà Nam</item>
+        <item>Hà Giang</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hòa Bình</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+    </string-array>
+</resources>
