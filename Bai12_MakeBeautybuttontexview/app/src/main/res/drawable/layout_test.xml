@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#8FE4C9"/> <!--đổ màu nền khối shape-->
+    <!--đường viền khối shape-->
+    <stroke android:color="#F0B1B1"
+        android:width="2dp"/>
+<!--        android:dashWidth="15dp"-->
+<!--        android:dashGap="1dp"/>-->
+<!--    <size android:width="50dp"-->
+<!--        android:height="50dp"/>-->
+    <corners android:radius="10dp"/> <!--bo góc khối shape-->
+    <padding android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp"/> <!--đệm bên trong khối shape-->
+    <gradient android:startColor="#9DF8FD"
+
+        android:endColor="#F740FD"
+        android:angle="19"/>
+    <!--     android:centerColor="#C88282"-->
+</shape>
