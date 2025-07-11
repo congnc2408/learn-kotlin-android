@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Bai14_Intent</string>
     <string name="go_to_screen_2">go to screen 2</string>
+    <string name="n_i_dung_s_hi_n_th_y">Nội dung sẽ hiển thị ở đây</string>
 </resources>

@@ -20,6 +20,16 @@ class MainActivity : AppCompatActivity() {
 
         bindinng.btnGo.setOnClickListener {
             val i = Intent(this, screen2::class.java)
+            /*i.putExtra("fullName","Nguyễn Chí Công")
+            i.putExtra("sex","Male")
+            i.putExtra("phoneNumber", "0123456789")
+            i.putExtra("married","Alone")*/
+            val bundle = Bundle()
+            bundle.putString("fullName", "Nguyễn Chí Công")
+            bundle.putString("sex","Male")
+            bundle.putString("phoneNumber", "0123456789")
+            bundle.putString("married","Alone")
+            i.putExtras(bundle)
             startActivity(i)
         }
 

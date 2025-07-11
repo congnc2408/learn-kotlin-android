@@ -14,15 +14,34 @@ class screen2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-         binding = ActivityScreen2Binding.inflate(layoutInflater)
+        setContentView(R.layout.activity_screen2)
+        binding = ActivityScreen2Binding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        // Get data from intent
+        val i = intent
+        /*val fullName = i.getStringExtra("fullName")
+        val sex = i.getStringExtra("sex")
+        val phoneNumber = i.getStringExtra("phoneNumber")
+        val married = i.getStringExtra("married")*/
+        val bundle = i.extras
+       if (bundle != null){
+           val fullName = bundle?.getString("fullName")
+           val sex = bundle?.getString("sex")
+           val phoneNumber = bundle?.getString("phoneNumber")
+           val married = bundle?.getString("married")
+           binding.editTextId.setText(fullName+"\n" +sex+"\n" +phoneNumber+"\n"+married)
+       }
+
+
+
         binding.btnBack.setOnClickListener {
-            val  intent = Intent(this, MainActivity::class.java)
+            val  intent = Intent(this, Screen3 ::class.java)
             intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
             startActivity(intent)
         }
 
-        setContentView(R.layout.activity_screen2)
+
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
