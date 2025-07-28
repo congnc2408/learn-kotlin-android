@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable lemon_icon
+drawable mango_icon
+id btnLemon
+id btnMango
+id flContainer
+id main
+layout activity_main
+layout fragment_lemon
+layout fragment_mango
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Bai17Fragment
+style Theme.Bai17Fragment
+xml backup_rules
+xml data_extraction_rules

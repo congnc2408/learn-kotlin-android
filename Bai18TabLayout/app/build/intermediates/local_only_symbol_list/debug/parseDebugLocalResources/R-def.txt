@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable akira
+drawable beelzebub
+drawable gintama
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable jjk
+drawable one_punch_man
+drawable sakamoto_day
+drawable sogeking_soma_p1
+drawable the_wind
+drawable zootpia
+id imageView1
+id imageView2
+id imageView3
+id imageView4
+id imageView5
+id main
+id pagerDemo
+id tabDemo
+layout activity_main
+layout fragment_m_v1
+layout fragment_m_v2
+layout fragment_m_v3
+layout fragment_m_v4
+layout fragment_m_v5
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Bai18TabLayout
+style Theme.Bai18TabLayout
+xml backup_rules
+xml data_extraction_rules
