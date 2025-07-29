@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/layout_nav_header.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_tinyun4star.jpg.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/tinyun4star.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_baseline_message_24.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/baseline_message_24.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/menu_menu_detail.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/menu/menu_detail.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/drawable_baseline_home_24.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai21_navigationsimple.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.tuhoc.bai21_navigationsimple.app-main-36:/layout/activity_main.xml"
+    }
+]
