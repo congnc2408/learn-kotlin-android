@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/fragment_m_v2.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v2.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/fragment_m_v5.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v5.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/fragment_m_v1.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v1.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/fragment_m_v4.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v4.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-mergeDebugResources-32:/layout/fragment_m_v3.xml",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v3.xml"
+    }
+]

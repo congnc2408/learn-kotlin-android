@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_fragment_m_v3.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v3.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_jjk.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/jjk.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_fragment_m_v5.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v5.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_gintama.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/gintama.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_zootpia.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/zootpia.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_fragment_m_v4.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v4.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_akira.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/akira.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_fragment_m_v2.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v2.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_the_wind.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/the_wind.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_sogeking_soma_p1.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/sogeking_soma_p1.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_beelzebub.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/beelzebub.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_one_punch_man.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/one_punch_man.jpg"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/layout_fragment_m_v1.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/layout/fragment_m_v1.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tuhoc.bai18tablayout.app-debug-33:/drawable_sakamoto_day.jpg.flat",
+        "source": "com.tuhoc.bai18tablayout.app-main-35:/drawable/sakamoto_day.jpg"
+    }
+]
