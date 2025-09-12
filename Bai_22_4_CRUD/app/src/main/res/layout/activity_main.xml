@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EDF9FB"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/edtUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:ems="10"
+        android:hint="User"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="text" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnInsert"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/insert" />
+
+        <Button
+            android:id="@+id/btnUpdate"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/update" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/delete" />
+
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/reset" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnFirst"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/first" />
+
+        <Button
+            android:id="@+id/btnPrevious"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/previous" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/next" />
+
+        <Button
+            android:id="@+id/btnEnd"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/last" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <SearchView
+            android:id="@+id/earchV"
+            android:visibility="gone"
+            android:layout_width="64dp"
+            android:layout_height="32dp" />
+
+        <Button
+            android:id="@+id/btnSearch"
+            android:layout_width="64dp"
+            android:layout_height="32dp"
+            app:icon="@drawable/find" />
+        <ListView
+            android:id="@+id/lvUser"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+</LinearLayout>

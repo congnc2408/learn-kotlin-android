@@ -16,7 +16,94 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20878fb-2ab2-46ae-a1d3-d9ac7af7e723" name="Changes" comment="" />
+    <list default="true" id="b20878fb-2ab2-46ae-a1d3-d9ac7af7e723" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/androidTest/java/com/mimitoji/bai_22_3/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/java/com/mimitoji/bai_22_3/CopyDB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/java/com/mimitoji/bai_22_3/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAI_22_3/app/src/test/java/com/mimitoji/bai_22_3/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/androidTest/java/com/mimitoji/bai_22_4_crud/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/java/com/mimitoji/bai_22_4_crud/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/first.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/last.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/previous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/drawable/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/app/src/test/java/com/mimitoji/bai_22_4_crud/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_22_4_CRUD/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +112,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\nccong\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -51,7 +138,8 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "congncdev"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "Q:/Android/learn-kotlin-android/Bai3-3"
   }
 }]]></component>
   <component name="RunManager">
@@ -144,12 +232,12 @@
       <map>
         <entry key="com.tuhoc.bai20_2contextmenu">
           <value>
-            <CheckInfo lastCheckTimestamp="1753408330419" />
+            <CheckInfo lastCheckTimestamp="1757663445497" />
           </value>
         </entry>
         <entry key="com.tuhoc.bai20_2contextmenu.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1753408330611" />
+            <CheckInfo lastCheckTimestamp="1757663445490" />
           </value>
         </entry>
       </map>
