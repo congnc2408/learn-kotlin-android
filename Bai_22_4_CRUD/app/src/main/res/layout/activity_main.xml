@@ -20,12 +20,12 @@
         android:inputType="text" />
 
     <EditText
-        android:id="@+id/edtEmail"
+        android:id="@+id/edtPhone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="25dp"
         android:ems="10"
-        android:hint="Email"
+        android:hint="Phone"
         android:inputType="text" />
 
     <LinearLayout
@@ -98,16 +98,16 @@
         android:orientation="vertical">
 
         <SearchView
-            android:id="@+id/earchV"
+            android:id="@+id/searchV"
             android:visibility="gone"
-            android:layout_width="64dp"
+            android:layout_width="match_parent"
             android:layout_height="32dp" />
 
-        <Button
-            android:id="@+id/btnSearch"
-            android:layout_width="64dp"
-            android:layout_height="32dp"
-            app:icon="@drawable/find" />
+<!--        <Button-->
+<!--            android:id="@+id/btnSearch"-->
+<!--            android:layout_width="64dp"-->
+<!--            android:layout_height="32dp"-->
+<!--            app:icon="@drawable/find" />-->
         <ListView
             android:id="@+id/lvUser"
             android:visibility="gone"
